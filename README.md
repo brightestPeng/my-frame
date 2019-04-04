@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -65,4 +65,23 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 ### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify -->
+
+
+<!-- Edited by Winica Pan on 2019/3/25.  -->
+
+This is my first Front-End framework , As my technical level improves , I will keep updating.
+
+firstly, you need install dependence , you can run :
+
+## `yarn install`
+
+start app , you can run:
+
+## `yarn start`
+
+build app , you can run:
+
+## `yarn run build`
+
+Build the app for production to the `build` folder.
